@@ -1,0 +1,37 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 500;
+  text-align: left;
+  background-image: linear-gradient(#ad6a8b, #907399, #907399 );
+  color: white;
+}
+.lyrics{
+	text-align: left;
+	font-size: 45px;
+	padding: 50px;
+}
+.footer{
+	font-size:20px;
+	padding:10px;
+	text-align: center;
+}
+.source{
+	font-size:35px;
+	position: relative; 
+	left: 80px;
+	font-style: italic;
+}
+a{
+	text-decoration: none; 
+	color: white; 
+	
+}
+a:hover{
+	color: lightblue;
+	
+}
